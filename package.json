@@ -7,7 +7,6 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@babel/core": "^7.18.2",
     "@expo/vector-icons": "^13.0.0",
     "expo": "^45.0.4",
     "expo-constants": "~13.1.1",
@@ -16,6 +15,7 @@
     "prop-types": "^15.8.1",
     "react": "17.0.2",
     "react-native": "0.68.2",
+    "react-native-gesture-handler": "^2.4.2",
     "react-navigation": "^4.4.4",
     "react-redux": "8.0.2",
     "redux": "^4.2.0",
@@ -23,6 +23,8 @@
     "redux-thunk": "^2.4.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.1.6",
     "babel-eslint": "^10.0.1",
     "babel-preset-expo": "~9.1.0",
     "eslint": "^8.16.0",
