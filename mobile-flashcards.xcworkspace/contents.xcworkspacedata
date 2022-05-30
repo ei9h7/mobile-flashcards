@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:actions">
+   </FileRef>
+   <FileRef
+      location = "group:App.js">
+   </FileRef>
+   <FileRef
+      location = "group:app.json">
+   </FileRef>
+   <FileRef
+      location = "group:assets">
+   </FileRef>
+   <FileRef
+      location = "group:babel.config.js">
+   </FileRef>
+   <FileRef
+      location = "group:components">
+   </FileRef>
+   <FileRef
+      location = "group:docs">
+   </FileRef>
+   <FileRef
+      location = "group:navigation">
+   </FileRef>
+   <FileRef
+      location = "group:node_modules">
+   </FileRef>
+   <FileRef
+      location = "group:package.json">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:reducers">
+   </FileRef>
+   <FileRef
+      location = "group:rn-cli.config.js">
+   </FileRef>
+   <FileRef
+      location = "group:utils">
+   </FileRef>
+   <FileRef
+      location = "group:yarn.lock">
+   </FileRef>
+</Workspace>
